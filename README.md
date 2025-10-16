@@ -244,7 +244,7 @@ p.note { display: none; }
 <h2><span class="yellow">いつものLotus’sで知り合いにバッタリ</span></h2>
 <a href="20251016_030.JPG" target="_blank"><img src="20251016_030.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">家電コーナーの冷蔵庫、HITACHI</span></h2>
+<h2><span class="yellow">家電コーナーの冷蔵庫、TOSHIBA</span></h2>
 <a href="20251016_031.JPG" target="_blank"><img src="20251016_031.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251016_032.JPG" target="_blank"><img src="20251016_032.JPG" alt="サンプル画像" class="responsive-media"></a>
     
