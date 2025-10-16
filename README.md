@@ -171,9 +171,9 @@ p.note { display: none; }
     
 <h2><span class="yellow">バナナはチップではなくて天ぷらになりました</span></h2>
 <a href="20251016_002.JPG" target="_blank"><img src="20251016_002.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20251016_003.JPG" target="_blank"><img src="20251016_003.JPG" alt="サンプル画像" class="responsive-media"></a>
-    
+
 <h2><span class="yellow">親戚のコーヒーショップに寄ります</span></h2>
+<a href="20251016_003.JPG" target="_blank"><img src="20251016_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251016_004.JPG" target="_blank"><img src="20251016_004.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">店の奥には噴水の池も見えています</span></h2>
